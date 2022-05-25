@@ -33,10 +33,5 @@ Expertise: Devops,
 Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">jagruti.r@clixlogix.net</a>
 </br>
 </br>
-<b>Statics:</b>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jagruti-clixlogix&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jagruti-clixlogix&theme=gruvbox&hide_border=true" />
-</p>
 <br>
 
