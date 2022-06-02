@@ -14,7 +14,7 @@
 </h1>
 <b> About me:</b>
 </br>
-Hi, I'm Jagruti having an experience of 3 years in Mobile Application Devops,
+Hi, I'm Jagruti having an experience of 3 years in Mobile application Development,
 </br>
 </br>
 
@@ -24,7 +24,7 @@ I’m interested in android, flutter, kotlin app developement in the project and
 </br>
 </br>
 <b>Tech Stack and Expertise</b></br>
-Expertise: Devops, 
+Expertise: Mobile application Development, 
 </br>
 </br>
 
@@ -33,5 +33,11 @@ Expertise: Devops,
 Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">jagruti.r@clixlogix.net</a>
 </br>
 </br>
+<b>Statics:</b>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JagrutiJR&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=JagrutiJR&theme=gruvbox&hide_border=true" />
+</p>
 <br>
+
 
